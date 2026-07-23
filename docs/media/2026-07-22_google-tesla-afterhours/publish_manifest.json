@@ -1,0 +1,25 @@
+{
+  "publication_key": "2026-07-22_google-tesla-afterhours",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "05_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_google-tesla-afterhours/FINAL_page1_comic.jpg",
+        "alt_text": "정규장 약세 뒤 알파벳과 테슬라 실적이 이어지는 새벽을 나리가 겪는 4컷 만화. 순다르 피차이와 일론 머스크가 관련 장면의 조연으로 등장한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_google-tesla-afterhours/FINAL_page2_facts.jpg",
+        "alt_text": "2026년 7월 22일 미국장과 알파벳·테슬라 실적, 한국 투자자 연결 이슈를 손그림 아침노트 형식으로 정리한 두 번째 이미지."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_google-tesla-afterhours/FINAL_reel.mp4",
+    "caption_file": "05_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
