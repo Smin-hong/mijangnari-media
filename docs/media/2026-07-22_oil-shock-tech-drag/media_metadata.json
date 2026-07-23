@@ -1,0 +1,20 @@
+{
+  "publication_key": "2026-07-22_oil-shock-tech-drag",
+  "account_handle": "@mijangnari",
+  "feed_size": [
+    1080,
+    1350
+  ],
+  "reel": {
+    "size": [
+      1080,
+      1920
+    ],
+    "duration_seconds": 15.0,
+    "codec": "h264",
+    "frame_rate": 30.0,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_bit_rate": 127904
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "publication_key": "2026-07-22_oil-shock-tech-drag",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "05_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_oil-shock-tech-drag/FINAL_page1_comic.jpg",
+        "alt_text": "유가 급등이 기술주에 부담을 주는 과정을 나리가 설명하는 4컷 만화. 브렌트유는 3.4% 오른 94.07달러, 나스닥은 0.57% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_oil-shock-tech-drag/FINAL_page2_facts.jpg",
+        "alt_text": "2026년 7월 22일 미국장 마감 팩트 카드. S&P 500 -0.14%, 나스닥 -0.57%, 다우 -0.01%와 유가 상승 원인을 정리했다."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-22_oil-shock-tech-drag/FINAL_reel.mp4",
+    "caption_file": "05_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
