@@ -1,0 +1,29 @@
+{
+  "publication_key": "2026-07-23_oil-bigtech-intel-rebound-copyfix",
+  "account_handle": "@mijangnari",
+  "feed_size": [
+    1080,
+    1350
+  ],
+  "feed_slide_count": 6,
+  "feed_filenames": [
+    "FINAL_feed_01.jpg",
+    "FINAL_feed_02.jpg",
+    "FINAL_feed_03.jpg",
+    "FINAL_feed_04.jpg",
+    "FINAL_feed_05.jpg",
+    "FINAL_feed_06.jpg"
+  ],
+  "reel": {
+    "size": [
+      1080,
+      1920
+    ],
+    "duration_seconds": 22.0,
+    "codec": "h264",
+    "frame_rate": 30.0,
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_bit_rate": 128007
+  }
+}
