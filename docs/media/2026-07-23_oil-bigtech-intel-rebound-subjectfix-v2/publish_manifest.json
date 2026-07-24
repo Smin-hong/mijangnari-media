@@ -1,0 +1,41 @@
+{
+  "publication_key": "2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "05_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_01.jpg",
+        "alt_text": "브렌트유가 100.69달러로 뛰고 나스닥이 2.15% 하락하자 놀란 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_02.jpg",
+        "alt_text": "서버와 순다르 피차이를 보며 알파벳의 클라우드 성장과 설비투자 규모에 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_03.jpg",
+        "alt_text": "일론 머스크 옆에서 테슬라의 예상 하회 EPS와 주가 14.5% 하락에 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_04.jpg",
+        "alt_text": "장 마감 뒤 인텔의 시간외 급등을 보고 잠이 달아난 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_05.jpg",
+        "alt_text": "2026년 7월 23일 미국장 지수와 유가, 알파벳·테슬라·인텔 실적, 한국 투자자 체크 항목을 적은 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 @mijangnari 팔로우를 안내하는 따뜻한 크림색 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-23_oil-bigtech-intel-rebound-subjectfix-v2/FINAL_reel.mp4",
+    "caption_file": "05_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
