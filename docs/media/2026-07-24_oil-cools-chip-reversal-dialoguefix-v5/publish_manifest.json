@@ -1,0 +1,41 @@
+{
+  "publication_key": "2026-07-24_oil-cools-chip-reversal-dialoguefix-v5",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "05_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_01.jpg",
+        "alt_text": "브렌트유는 내렸지만 나스닥은 하락하자 기름통과 칩 미끄럼틀 사이에서 고개를 갸웃하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_02.jpg",
+        "alt_text": "좋은 실적표를 든 인텔 칩이 정규장에서 미끄러지는 모습을 보고 칭찬 스티커를 든 채 멈칫한 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_03.jpg",
+        "alt_text": "SK하이닉스 ADR 하락을 상징하는 메모리 칩 장바구니를 칸막이로 막으려는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_04.jpg",
+        "alt_text": "인텔과 SK하이닉스를 상징하는 칩 슬리퍼는 침대 밑으로 미끄러졌지만 잠들지 못한 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_05.jpg",
+        "alt_text": "2026년 7월 24일 미국장 지수와 유가·금리, 반도체 급락, 인텔·아메리칸 익스프레스 실적, 한국 투자자 체크 항목을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 @mijangnari 팔로우를 안내하는 따뜻한 크림색 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-24_oil-cools-chip-reversal-dialoguefix-v5/FINAL_reel.mp4",
+    "caption_file": "05_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
