@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-07-29_oil-fed-ai-reset-rev4",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_01.jpg",
+        "alt_text": "원유 공급 우려로 브렌트가 상승한 화면을 확인하며 계좌에 미칠 영향을 생각하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_02.jpg",
+        "alt_text": "연준 동결 소식과 미국 10년물 상승 선을 나란히 확인하며 금리 부담을 메모하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_03.jpg",
+        "alt_text": "반도체 웨이퍼와 하락 차트를 보며 필라델피아 반도체지수 급락을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_04.jpg",
+        "alt_text": "침대에서 AI 반도체와 유가를 다음 확인 항목으로 정하고 휴대전화 알람 하나를 맞추는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_05.jpg",
+        "alt_text": "2026년 7월 29일 미국장 지수와 브렌트, 미국 10년물, 연준, 미국 반도체, 주요 실적과 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 더 알고 싶다면 @mijangnari를 팔로우해 달라고 안내하는 따뜻한 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-29_oil-fed-ai-reset-rev4/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
