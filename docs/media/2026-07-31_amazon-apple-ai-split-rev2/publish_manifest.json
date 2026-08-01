@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-07-31_amazon-apple-ai-split-rev2",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_01.jpg",
+        "alt_text": "미국 지수 화면의 상승선을 확인하며 종목별 반응 차이를 궁금해하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_02.jpg",
+        "alt_text": "클라우드 서버와 택배 상자 옆 상승 차트를 보며 아마존의 강세에 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_03.jpg",
+        "alt_text": "스마트폰과 노트북 옆 하락 차트를 보며 애플의 약세를 의아해하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_04.jpg",
+        "alt_text": "마이크론과 SK하이닉스 ADR의 하락을 따로 확인하며 관심종목 노트에 체크하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_05.jpg",
+        "alt_text": "2026년 7월 31일 미국 3대 지수와 아마존·애플 실적, 메모리 반도체 종목, 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_feed_06.jpg",
+        "alt_text": "크림 종이와 손그림 장식 위에서 나리가 @mijangnari 팔로우를 안내하는 마무리 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-07-31_amazon-apple-ai-split-rev2/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
