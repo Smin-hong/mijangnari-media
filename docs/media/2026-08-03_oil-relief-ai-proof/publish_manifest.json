@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-03_oil-relief-ai-proof",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_01.jpg",
+        "alt_text": "원유 가격과 국채금리의 하락 차트를 보며 물가 부담 완화를 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_02.jpg",
+        "alt_text": "미국 증시 상승 차트와 여객기를 보며 항공주까지 넓어진 반등을 살피는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_03.jpg",
+        "alt_text": "데이터 블록과 서버, 매출 상승 막대를 보며 팔란티어의 실적을 메모하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_04.jpg",
+        "alt_text": "반도체 칩과 돋보기를 들고 다음 AMD 실적을 확인하려는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 3일 미국 지수, 유가와 금리, 제조업, 팔란티어 실적과 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 더 알고 싶다면 @mijangnari를 팔로우해 달라고 안내하는 따뜻한 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-03_oil-relief-ai-proof/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
