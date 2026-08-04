@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-04_ai-rally-spreads-rev1",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_01.jpg",
+        "alt_text": "반도체주 동반 상승 차트와 일반 반도체 칩을 보며 AMD의 정규장 7% 상승을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_02.jpg",
+        "alt_text": "서버 랙과 매출 막대그래프를 보며 AMD 데이터센터 매출이 전년보다 107% 증가한 실적을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_03.jpg",
+        "alt_text": "정규장 상승선과 장후 하락선이 나뉜 화면을 보며 AMD의 장후 약 9% 하락을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_04.jpg",
+        "alt_text": "실적표와 전망 막대를 비교하며 AMD의 좋은 실적과 이미 높아진 시장 기대 사이의 간극을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 4일 미국 주요 지수와 반도체주 상승, AMD 정규장·장후 주가, 2분기 실적과 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 더 알고 싶다면 @mijangnari를 팔로우해 달라고 안내하는 따뜻한 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-04_ai-rally-spreads-rev1/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
