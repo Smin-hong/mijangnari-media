@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-05_ai-spending-profit-split",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_01.jpg",
+        "alt_text": "다우 신고가를 상징하는 금빛 기록과 기술주 하락 차트를 함께 보며 지수의 엇갈림을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_02.jpg",
+        "alt_text": "로켓과 매출 동전보다 무거운 AI 서버 지출이 저울을 누르는 모습을 보는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_03.jpg",
+        "alt_text": "서버에 연결된 황금색 AI 칩과 빈 케이블 옆 회색 칩의 갈림을 비교하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_04.jpg",
+        "alt_text": "영화·놀이공원·여행의 이익 상승을 보며 자신의 반도체 중심 관심목록을 돌아보는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 5일 지수 엇갈림, AI 공급망, 스페이스X·디즈니 실적 반응과 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 더 알고 싶다면 @mijangnari를 팔로우해 달라고 안내하는 따뜻한 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-05_ai-spending-profit-split/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
