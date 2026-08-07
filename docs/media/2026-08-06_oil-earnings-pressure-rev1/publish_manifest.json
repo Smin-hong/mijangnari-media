@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-06_oil-earnings-pressure-rev1",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_01.jpg",
+        "alt_text": "나리가 책상에서 네 개의 하락 차트와 원유 가격·국채금리 소품을 확인하는 첫 번째 만화 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_02.jpg",
+        "alt_text": "나리가 비행기 모형 옆에서 하니웰 에어로스페이스의 실적 자료와 하락 차트를 보고 놀란 두 번째 만화 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_03.jpg",
+        "alt_text": "나리가 디지털 광고 카드 모양과 앱러빈 하락 차트를 확인하며 생각하는 세 번째 만화 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_04.jpg",
+        "alt_text": "늦은 밤 나리가 트레이드 데스크의 장후 하락 차트를 확인한 뒤 휴대전화를 책상에 엎어 둔 네 번째 만화 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 6일 미국 3대 지수, 유가·금리, 하니웰 에어로스페이스·앱러빈·트레이드 데스크의 실적 반응과 다음 일정을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_feed_06.jpg",
+        "alt_text": "나리가 손을 흔들며 @mijangnari 팔로우를 안내하는 따뜻한 손그림 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-06_oil-earnings-pressure-rev1/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
