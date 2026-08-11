@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-10_oil-intel-pressure",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_01.jpg",
+        "alt_text": "노트북의 하락 차트와 오르는 기름통 그림을 보며 걱정하는 노란 옷의 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_02.jpg",
+        "alt_text": "기름방울과 상승하는 금리 선을 번갈아 보며 생각하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_03.jpg",
+        "alt_text": "반도체 칩과 빈 공모 서류 더미를 보고 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_04.jpg",
+        "alt_text": "두 장의 색 메모를 노트에 나눠 적으며 원인을 구분하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 10일 미국 증시의 지수, 유가와 금리 상승, 인텔 공모 부담, 다음 장 관전 포인트를 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_feed_06.jpg",
+        "alt_text": "나리와 함께 매 거래일 아침 미국 증시를 확인하고 @mijangnari를 팔로우하라는 안내 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-10_oil-intel-pressure/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
