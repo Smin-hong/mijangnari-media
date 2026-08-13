@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-12_cpi-ai-relief",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_01.jpg",
+        "alt_text": "미국 CPI 둔화와 나스닥 상승을 확인하는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_02.jpg",
+        "alt_text": "AI 서버 옆에서 코어위브 매출 증가를 확인하는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_03.jpg",
+        "alt_text": "코어위브 순손실 확대를 다시 살피는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_04.jpg",
+        "alt_text": "미국 PPI 일정과 수익성을 함께 확인하는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 12일 미국 시장 아침노트"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 팔로우 안내 카드"
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-12_cpi-ai-relief/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
