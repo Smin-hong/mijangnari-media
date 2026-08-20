@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-19_treasury-fed-crosscurrents",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_01.jpg",
+        "alt_text": "미국 재무부 발표 뒤 S&P 500 반등을 보며 놀라는 나리의 첫 번째 인스타툰 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_02.jpg",
+        "alt_text": "미국 10년물 금리가 4.64%로 내려온 것을 보며 조금 안도하는 나리의 두 번째 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_03.jpg",
+        "alt_text": "FOMC 의사록이 추가 긴축 가능성을 남긴 것을 보고 표정이 굳는 나리의 세 번째 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_04.jpg",
+        "alt_text": "반등만 믿지 않고 장기금리를 다시 확인하는 나리의 네 번째 컷."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_05.jpg",
+        "alt_text": "8월 19일 지수와 재무부 바이백, FOMC 의사록의 대조를 정리한 미장나리 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari를 팔로우하라는 안내 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-19_treasury-fed-crosscurrents/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
