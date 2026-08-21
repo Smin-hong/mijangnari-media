@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-21_pmi-yield-crosscurrents",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_01.jpg",
+        "alt_text": "노트북 앞의 나리가 오른 지수를 보고 놀라며 다우와 나스닥의 반등을 확인하는 첫 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_02.jpg",
+        "alt_text": "나리가 상승 종목 수가 더 많고 미국 기업활동이 52개월래 최고임을 확인하는 두 번째 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_03.jpg",
+        "alt_text": "10년물 금리와 브렌트유 화면을 나란히 보며 다시 조심스러워진 나리의 세 번째 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_04.jpg",
+        "alt_text": "S&P 500과 나스닥의 주간 하락을 떠올리며 월요일 알람을 맞추는 나리의 마지막 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_05.jpg",
+        "alt_text": "8월 21일 3대 지수, 서비스업과 시장 폭, 10년물 금리와 브렌트유를 정리한 나리의 미장 아침노트"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_feed_06.jpg",
+        "alt_text": "매 거래일 아침 나리와 같이 보자는 @mijangnari 팔로우 안내 카드"
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-21_pmi-yield-crosscurrents/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
