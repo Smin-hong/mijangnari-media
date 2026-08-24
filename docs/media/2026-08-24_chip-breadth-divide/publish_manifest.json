@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-24_chip-breadth-divide",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_01.jpg",
+        "alt_text": "노트북의 하락 차트를 보며 나스닥과 반도체 약세를 걱정하는 나리의 첫 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_02.jpg",
+        "alt_text": "엔비디아와 마이크론 하락을 확인하고 놀라는 나리의 두 번째 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_03.jpg",
+        "alt_text": "다우 상승과 나스닥 하락을 두 화면으로 비교하며 고개를 갸웃하는 나리의 세 번째 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_04.jpg",
+        "alt_text": "금융주가 다우를 지지한 점을 확인하고 자기 반도체 종목을 다시 보는 나리의 마지막 컷"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_05.jpg",
+        "alt_text": "8월 24일 3대 지수와 반도체 매도, 금융주 상대 강세, 다음 세션 포인트를 정리한 나리의 미장 아침노트"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_feed_06.jpg",
+        "alt_text": "매 거래일 아침 나리와 같이 보자는 @mijangnari 팔로우 안내 카드"
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-24_chip-breadth-divide/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
