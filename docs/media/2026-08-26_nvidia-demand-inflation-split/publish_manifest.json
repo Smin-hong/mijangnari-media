@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-26_nvidia-demand-inflation-split",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_01.jpg",
+        "alt_text": "엔비디아 실적을 기다리며 거의 움직이지 않은 미국장 차트를 보는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_02.jpg",
+        "alt_text": "예상보다 높은 PCE 물가와 오른 금리를 확인하는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_03.jpg",
+        "alt_text": "엔비디아의 예상 상회 실적과 다음 분기 전망을 보고 놀란 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_04.jpg",
+        "alt_text": "엔비디아와 반도체의 다음 정규장 반응을 확인하려 알림을 맞추는 나리"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_05.jpg",
+        "alt_text": "8월 26일 3대 지수와 PCE 물가, 엔비디아 실적을 정리한 미장 아침노트"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_feed_06.jpg",
+        "alt_text": "매 거래일 아침 미장나리를 팔로우해 달라는 나리의 안내 카드"
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-26_nvidia-demand-inflation-split/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
