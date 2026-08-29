@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-28_fed-yield-growth-reset",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_01.jpg",
+        "alt_text": "워시 의장의 물가 우선 연설을 보며 표정이 굳은 나리가 앉아 있는 4컷 만화 첫 장."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_02.jpg",
+        "alt_text": "워시 연설 뒤 2년물과 10년물 미국 국채금리 상승을 확인하고 놀란 나리의 두 번째 장."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_03.jpg",
+        "alt_text": "나스닥과 엔비디아 하락, 약한 시장 폭을 두 모니터로 확인하는 나리의 세 번째 장."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_04.jpg",
+        "alt_text": "다음 거래일에 국채금리와 반도체 흐름을 함께 확인하려는 나리의 네 번째 장."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 28일 3대 지수와 워시 연설, 국채금리, 엔비디아 되돌림을 정리한 나리의 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_feed_06.jpg",
+        "alt_text": "크림색 종이 배경에서 @mijangnari 팔로우를 안내하는 나리의 마지막 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-28_fed-yield-growth-reset/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
