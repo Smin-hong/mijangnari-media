@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-08-31_oil-rate-pressure",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_01.jpg",
+        "alt_text": "새벽 책상에서 휴대폰의 하락 차트를 본 나리가 미국과 이란의 무력공방과 미국 증시 하락에 놀란다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_02.jpg",
+        "alt_text": "나리가 브렌트유 상승 차트를 보며 배럴당 90달러를 넘은 유가와 물가 부담을 걱정한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_03.jpg",
+        "alt_text": "나리가 미국 10년물 금리 상승과 에너지주만 강한 업종 흐름을 메모하며 성장주 부담을 확인한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_04.jpg",
+        "alt_text": "나리가 지수 대신 유가와 금리를 먼저 확인하려고 휴대폰에 두 개의 알림을 설정한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_05.jpg",
+        "alt_text": "2026년 8월 31일 미국장 3대 지수와 유가·금리 상승, 에너지주 상대 강세, 다음 장 ISM 제조업과 JOLTS를 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_feed_06.jpg",
+        "alt_text": "나리 캐릭터와 함께 어젯밤 미장을 계속 받고 싶다면 @mijangnari를 팔로우하라고 안내하는 엔딩 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-08-31_oil-rate-pressure/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
