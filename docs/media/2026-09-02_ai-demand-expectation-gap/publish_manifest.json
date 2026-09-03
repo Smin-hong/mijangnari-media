@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-02_ai-demand-expectation-gap",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_01.jpg",
+        "alt_text": "새벽 책상에서 상승 차트를 본 나리가 미국 증시의 사흘 만의 반등에 안도한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_02.jpg",
+        "alt_text": "나리가 서버와 상승 차트를 보며 델의 AI 서버 전망 상향과 엔비디아 상승을 확인한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_03.jpg",
+        "alt_text": "나리가 반도체 칩과 시간외 하락 차트를 보며 브로드컴의 기대 이하 가이던스에 의아해한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_04.jpg",
+        "alt_text": "나리가 엇갈린 두 차트를 비교하며 브로드컴 여파와 ISM 서비스업을 체크리스트에 적는다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_05.jpg",
+        "alt_text": "2026년 9월 2일 미국장 3대 지수와 델·브로드컴의 엇갈린 AI 실적 반응, 다음 장 브로드컴 여파와 ISM 서비스업을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_feed_06.jpg",
+        "alt_text": "나리 캐릭터와 함께 어젯밤 미장을 계속 받고 싶다면 @mijangnari를 팔로우하라고 안내하는 엔딩 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-02_ai-demand-expectation-gap/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
