@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-03_waller-yield-ai-split",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_01.jpg",
+        "alt_text": "새벽 책상에서 금리선과 기술주 차트를 본 나리가 월러 발언 뒤 기술주 반등에 안도한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_02.jpg",
+        "alt_text": "나리가 금리 메모와 밝아진 기술주 차트를 비교하며 나스닥 상승에 놀란다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_03.jpg",
+        "alt_text": "나리가 AI 서버와 반도체 칩 옆의 하락 차트를 보며 브로드컴 주가 약세를 의아해한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_04.jpg",
+        "alt_text": "나리가 금리와 브로드컴 전망을 함께 확인해야 한다고 체크리스트에 적는다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_05.jpg",
+        "alt_text": "2026년 9월 3일 미국장 3대 지수와 월러 발언, 국채금리 하락, 브로드컴의 기대치 대조, 다음 고용보고서를 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_feed_06.jpg",
+        "alt_text": "나리 캐릭터와 함께 어젯밤 미장을 계속 받고 싶다면 @mijangnari를 팔로우하라고 안내하는 엔딩 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-03_waller-yield-ai-split/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
