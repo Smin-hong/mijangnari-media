@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-04_jobs-rate-hike-pressure",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_01.jpg",
+        "alt_text": "붉은 하락 차트를 보며 놀란 나리가 고용이 좋아졌다는데 왜 미국 증시는 빠지는지 묻는다. S&P 500은 0.4%, 다우는 0.5% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_02.jpg",
+        "alt_text": "고용 발표와 금리 상승 화면을 살피는 나리. 고용이 16만2천 명 늘어 연준이 금리를 올릴 수도 있다고 이해한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_03.jpg",
+        "alt_text": "반도체 차트를 보고 고개를 갸웃하는 나리. 엔비디아와 AMD는 지수 하락 속에서도 각각 0.8%, 4.7% 올랐다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_04.jpg",
+        "alt_text": "나리가 다음 거래일을 노트에 표시하며 연휴 동안 매매보다 9월 8일 미국 증시의 금리를 먼저 보겠다고 말한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_05.jpg",
+        "alt_text": "2026년 9월 4일 미국장의 지수, 강한 고용과 금리 상승, 반도체 상대 강세, 연휴 뒤 확인 포인트를 정리한 나리의 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_feed_06.jpg",
+        "alt_text": "노란 옷의 나리와 함께 @mijangnari 팔로우를 권하는 따뜻한 손그림 엔딩 카드."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-04_jobs-rate-hike-pressure/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
