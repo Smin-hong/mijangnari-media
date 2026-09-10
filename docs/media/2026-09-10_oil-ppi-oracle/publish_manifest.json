@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-10_oil-ppi-oracle",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_01.jpg",
+        "alt_text": "나리가 새벽 책상에서 노트북의 하락 차트를 보고 눈썹을 찌푸린다. 머그잔과 스탠드만 놓여 있다. 나리의 대사: 나스닥이 또 빠졌네. 오늘은 그래도 반등할 줄 알았는데. 해설: 미국 3대 지수, 나흘 연속 하락"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_02.jpg",
+        "alt_text": "나리가 같은 책상 옆에서 스마트폰의 경제 소식을 보며 걱정스러운 표정을 짓는다. 다른 손은 뺨을 받친다. 나리의 대사: 미국 생산자물가까지 올랐네. 금리 걱정은 아직 끝난 게 아니구나. 해설: 8월 생산자물가, 전년 대비 +5.4%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_03.jpg",
+        "alt_text": "나리가 노트북을 향해 몸을 조금 기울이고 실적 발표 후 상승 차트를 보고 놀란다. 피곤한 눈이 다시 커진다. 나리의 대사: 오라클 실적은 또 좋네? 장이 끝나니까 이런 소식이 나오네. 해설: 오라클 클라우드 인프라 매출\n전년 대비 +121%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_04.jpg",
+        "alt_text": "나리가 하품하며 침대 옆에서 스마트폰 알람을 맞춘다. 노트북은 닫아 두고 어깨를 늘어뜨린다. 나리의 대사: 오라클이 오른다고 또 밤새울 뻔했네. 일단 알람 맞추고 자자."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_05.jpg",
+        "alt_text": "미국 9월 10일 미장 아침노트. 3대 지수 하락과 유가·금리 부담, 8월 생산자물가, 장후 오라클 반등 및 다음 소비자물가 발표를 정리했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_feed_06.jpg",
+        "alt_text": "나리의 미장나리 팔로우 카드. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-10_oil-ppi-oracle/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
