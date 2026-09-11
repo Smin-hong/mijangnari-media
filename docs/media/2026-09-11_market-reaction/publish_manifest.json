@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-11_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "새벽 책상에서 나리가 노트북의 상승 차트를 보고 긴장이 풀린 미소를 짓는다. 머그잔과 작은 스탠드가 놓여 있다. 나리의 대사: 나스닥이 드디어 올랐네. 오늘도 빠질까 봐 조마조마했잖아. 해설: 미국 3대 지수, 일제히 반등"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리가 같은 책상 옆에서 스마트폰의 물가 소식을 읽고 신중한 표정을 짓는다. 다른 손은 뺨을 받친다. 나리의 대사: 유가가 내려서 다행인데, 물가를 보니 마음 놓기는 아직 이르겠네. 해설: 미국 8월 소비자물가 전월 대비 +0.4%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리가 노트북의 하락 차트와 스마트폰의 상승 차트를 번갈아 보며 고개를 갸웃한다. 기업별 주가 반응이 다른 상황이다. 나리의 대사: 오라클 실적은 좋다며? 서버주는 오르는데 여긴 왜 빠진 거야? 해설: 오라클 하락 · 델·HPE 상승"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리가 침대 옆에 앉아 하품하며 휴대폰 알람을 맞춘다. 노트북은 닫아 두었고 이제 쉬려는 표정이다. 나리의 대사: 미국장 반등했으니 좀 쉬자. 월요일 밤 알람만 맞추고 자는 거야."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "미국 9월 11일 미장 아침노트. 3대 지수 반등, 물가와 금리 경계, 오라클·서버주의 엇갈린 반응 및 다음 주 확인 사항을 정리했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "나리의 미장나리 팔로우 카드. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-11_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
