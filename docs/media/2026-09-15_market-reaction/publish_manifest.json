@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-15_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 유가가 올랐네. 물가 걱정이 커지면 주식도 편할 날이 없겠어. 미국 증시, 유가·금리 부담에 하락"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 나스닥도 빠졌구나. 연준 발표 전이라 선뜻 사기가 망설여지네. 나스닥 -0.78%·연준 발표 전날"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 퀄컴은 반등했네? 나스닥만 보고 반도체도 다 빠진 줄 알았어. AMD·퀄컴 반등·나스닥 하락"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 연준 발표는 내일 새벽이지? 오늘은 잠부터 자고 알림 켜 둬야겠다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "유가·금리 부담과 일부 반도체 반등을 정리한 나리의 미장 아침노트. 미국 3대 지수와 핵심 이슈, 오늘 밤 포인트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-15_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
