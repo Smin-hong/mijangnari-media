@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-14_ai-oil-pressure",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. AI 개발을 늦추자고? 반도체가 이렇게 빠지니 괜히 불안하네. 필라델피아 반도체지수 -5.86%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 나스닥은 덜 빠졌네. 소프트웨어는 올랐다니, 같은 기술주도 다르구나. 소프트웨어 강세·반도체 약세"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 유가에 금리까지 올랐네. 연준 회의 앞두고 마음 놓기가 어렵다. 미 연준 회의 9월 15~16일"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 반도체 뉴스만 보다 밤샜네. 오늘 출근인데, 알람 맞추고 자야겠다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_05.jpg",
+        "alt_text": "AI 속도 조절론에 반도체 급락을 정리한 나리의 미장 아침노트. 미국 3대 지수와 핵심 이슈, 오늘 밤 포인트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-14_ai-oil-pressure/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
