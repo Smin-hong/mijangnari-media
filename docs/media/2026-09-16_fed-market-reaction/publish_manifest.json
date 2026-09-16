@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-16_fed-market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 연준이 금리를 올렸네. 이번 발표는 그냥 넘길 수가 없겠어. 연준 기준금리 0.25%p 인상"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 아까는 주가가 올랐잖아. 연준 발표 뒤에는 오히려 꺾였네? 장 초반 상승분을 반납한 미 증시"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 다우는 꽤 빠졌는데 나스닥은 거의 그대로네. 같은 장인데 차이가 크다. 다우 -1.21%·나스닥 -0.01%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 연준 발표까지 봤더니 벌써 새벽이네. 일단 휴대폰부터 내려놓자."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "연준 금리 인상 뒤 주가 반락과 지수별 낙폭 차이를 정리한 나리의 미장 아침노트. 미국 3대 지수, 핵심 이슈와 다음 장 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-16_fed-market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
