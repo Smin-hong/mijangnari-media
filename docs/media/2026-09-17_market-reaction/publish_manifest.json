@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-17_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 어제 연준 발표엔 주가가 빠지더니, 오늘 나스닥은 올랐네? 금리 인상 다음 날 나스닥 +1.69%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 유가랑 국채금리가 내리니까 좀 안심되네. 어제는 그렇게 불안했는데. 유가·미 국채금리 동반 하락"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 반도체가 다시 오르네. 떨어질 땐 겁났는데 이젠 놓칠까 봐 신경 쓰여. 반도체 강세에 기술주 반등"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 나스닥 오른 것만 확인하고 자려 했는데, 또 차트를 보고 있네."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "유가와 국채금리 하락 속 기술주 반등을 정리한 나리의 미장 아침노트. 미국 3대 지수, 반도체 강세와 다음 장 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-17_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
