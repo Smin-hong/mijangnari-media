@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-22_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 나스닥은 또 최고치네. 그런데 다우는 내렸어? 다 같이 오른 건 아니구나. 9월 22일 미국 정규장 혼조"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. AI 반도체는 또 올랐네. 관심 종목이 오르니까 안 샀던 게 자꾸 생각나. AI·반도체 강세에 나스닥 최고치"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 은행주는 약했네. 나스닥만 보고 미국장이 다 좋았다고 하면 안 되겠어. 은행주 약세, 다우는 하락 마감"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 미국장 확인 끝! 이젠 잘 수 있겠다. 아니, 내 종목 하나만 더 보고."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "나스닥 최고치와 은행주 약세가 엇갈린 미국장을 정리한 나리의 미장 아침노트. 세 지수, 핵심 이슈와 다음 거래일 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-22_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
