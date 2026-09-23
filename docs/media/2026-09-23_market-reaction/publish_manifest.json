@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-23_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 미국 경기는 좋다는데, 세 지수는 다 내렸네? 좋은 소식 아니었어? 9월 23일 미국 3대 지수 하락"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 미국 금리가 올랐구나. 경기 소식만 듣고 안심할 뻔했네. 강한 기업활동 지표 뒤 금리 상승"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 유가까지 다시 올랐네. 물가가 더 오를까 걱정인데, 마음 놓을 틈이 없네. 유가 반등으로 물가 부담도 지속"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 미국장 확인은 여기까지. 휴대폰 내려놓고 자야지. 알림만 한 번 더 볼까?"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "강한 기업활동 지표와 금리 상승 속 미국장 하락을 정리한 나리의 미장 아침노트. 세 지수, 핵심 이슈와 다음 거래일 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-23_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
