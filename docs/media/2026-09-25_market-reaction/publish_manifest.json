@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-25_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 미국장 오늘은 올랐네! 유가도 내려왔다니 주말은 좀 편히 쉬려나. S&P 500 +0.51% 마감"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 호르무즈 협상 기대가 있대? 기대만으로 끝나지 않아야 마음이 놓일 텐데. 유가 하락, 협상은 기대 단계"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 기대물가가 다시 높아졌네. 미국장 올랐다고 금리 걱정까지 끝난 건 아니구나. 미시간대 1년 기대물가 4.6%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 미국장도 끝났고 주말인데, 월요일에 볼 유가랑 금리를 벌써 적고 있네."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "유가 하락 속 미국 3대 지수의 상승과 기대물가·금리 부담을 함께 정리한 나리의 미장 아침노트. 세 지수 종가와 월요일 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-25_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
