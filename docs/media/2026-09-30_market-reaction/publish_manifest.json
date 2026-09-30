@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-09-30_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 미국 물가가 예상보다 낮게 나왔네! 오늘은 좀 편하게 봐도 될까? 8월 근원 PCE 전월비 +0.2%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 국채금리가 다시 오르네. 미국장은 좋은 소식 하나로 끝이 아니구나. S&P 500 -0.25% 마감"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 마이크론, 다음 분기 전망도 좋네! 장 끝났는데 다시 궁금해지잖아. 마이크론, 장후 실적·전망 발표"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 마이크론 반응은 오늘 밤 보자. 일단 노트북 닫고 잠부터 자야겠어."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "물가 안도와 장기금리 부담이 맞선 미국 정규장, 장후 마이크론의 실적과 다음 분기 매출 전망을 정리한 나리의 미장 아침노트. 3대 지수 종가와 다음 장 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-09-30_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
