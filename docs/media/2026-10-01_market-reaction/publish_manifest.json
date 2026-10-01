@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-01_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 국채금리가 내려오니 미국장도 올랐네. 이제 좀 안심해도 될까? S&P 500 +0.19% 마감"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 마이크론 전망이 좋네! 반도체는 궁금한데 지금 사도 괜찮을까? 마이크론, 실적·전망 호조"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 그런데 유가는 또 올라? 물가 걱정까지 끝난 건 아니었네. 유가 상승, 물가 부담 지속"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 미국 고용보고서는 오늘 밤이네. 알림 맞췄으니 이제 진짜 자야겠다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "국채금리 진정과 마이크론 전망이 지지한 미국장의 소폭 반등, 남아 있는 유가 부담을 정리한 나리의 미장 아침노트. 3대 지수 종가와 고용보고서 확인점."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-01_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
