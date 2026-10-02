@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-02_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나리의 미국 증시 4컷 1컷. 미국 고용이 이렇게 조금 늘었다고? 경기는 괜찮은 걸까? 9월 신규 고용 2만 9천 명"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "나리의 미국 증시 4컷 2컷. 나스닥은 오히려 올랐네! 금리 인상 걱정이 좀 줄어서 그런가? 나스닥 종합 +1.19% 마감"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "나리의 미국 증시 4컷 3컷. 미국 국채금리가 다시 올라? 아까는 내려서 좀 안심했는데. 오후 금리 반등에 상승 폭 축소"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나리의 미국 증시 4컷 4컷. 미국장 올랐다고 밤새 더 봤네. 월요일엔 금리부터 확인해야지."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "10월 2일 미국장 아침노트. 3대 지수 종가, 고용 둔화와 금리 인상 우려 완화, 오후 국채금리 반등, 다음 정규장의 기술주·금리 확인점을 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-02_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
