@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-05_nasdaq-record-yields",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_01.jpg",
+        "alt_text": "나스닥이 1.05% 올라 사상 최고가로 마감한 뉴스를 보고 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_02.jpg",
+        "alt_text": "슈나이더 일렉트릭이 PTC를 주당 205달러에 현금 인수하겠다고 발표한 소식을 읽는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_03.jpg",
+        "alt_text": "미국 주식 상승과 함께 장기 국채금리도 오른 것을 보고 신중해지는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_04.jpg",
+        "alt_text": "나스닥 상승을 반기면서도 다음 날을 위해 휴대폰을 내려놓고 잠을 청하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_05.jpg",
+        "alt_text": "미국 2026년 10월 5일 마감 아침노트. 3대 지수와 나스닥 신고가, PTC 인수 발표, 장기금리 상승을 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 미장나리 @mijangnari 팔로우. 매 거래일 아침 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-05_nasdaq-record-yields/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
