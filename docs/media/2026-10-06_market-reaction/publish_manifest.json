@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-06_market-reaction",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_01.jpg",
+        "alt_text": "나스닥 최고가 소식에 놀란 나리. S&P 500도 최고 종가를 기록했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_02.jpg",
+        "alt_text": "구글의 장기 전력 계약 소식을 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_03.jpg",
+        "alt_text": "마벨의 매출 전망 상향을 보고 놀라는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_04.jpg",
+        "alt_text": "나스닥 상승을 보고 매수를 고민하다 잠이 늦어진 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_05.jpg",
+        "alt_text": "10월 6일 미국장 아침노트. 3대 지수와 AI 전력·반도체 이슈."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 팔로우 안내. 매 거래일 아침 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-06_market-reaction/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
