@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-07_close01",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_01.jpg",
+        "alt_text": "최고가 다음 날 S&P 500 하락 소식에 놀라 휴대폰을 보는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_02.jpg",
+        "alt_text": "국채금리 상승 부담과 입찰 이후 진정을 노트북으로 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_03.jpg",
+        "alt_text": "연말 추가 금리 인상 가능성을 남긴 연준 의사록을 읽는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_04.jpg",
+        "alt_text": "미국장 마감 뒤에도 시세를 확인하다 노트북을 닫는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_05.jpg",
+        "alt_text": "10월 7일 미국장 3대 지수 종가와 국채금리, 연준 의사록을 정리한 미장 아침노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_feed_06.jpg",
+        "alt_text": "나리와 매 거래일 아침 미국장을 함께 보는 @mijangnari 팔로우 안내."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-07_close01/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
