@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-08_initial-20261009-a",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_01.jpg",
+        "alt_text": "다우 상승과 나스닥 하락을 보고 반도체 보유 종목을 확인하려는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_02.jpg",
+        "alt_text": "오픈AI 매출 보도와 AI·반도체 약세를 보고 기대를 돌아보는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_03.jpg",
+        "alt_text": "국제유가 상승과 물가 부담을 걱정하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_04.jpg",
+        "alt_text": "반도체는 다음 날 다시 보기로 하고 휴대폰을 내려놓는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_05.jpg",
+        "alt_text": "2026년 10월 8일 미국장 아침노트. 세 지수, AI 매출 보도와 유가 부담, 다음 확인 항목."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 팔로우 안내. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-08_initial-20261009-a/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
