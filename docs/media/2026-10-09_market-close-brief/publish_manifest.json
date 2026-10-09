@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-09_market-close-brief",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_01.jpg",
+        "alt_text": "나스닥 다시 올랐네! 어제 놀라서 못 잤는데, 이제 좀 안심해도 돼?"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_02.jpg",
+        "alt_text": "어, 엔비디아는 오늘도 내렸네? 기술주 오른다고 다 오르는 건 아니네."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_03.jpg",
+        "alt_text": "스페이스X가 통신까지? 그럼 기존 통신사들은 경쟁 걱정이 커질 수밖에 없겠네."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_04.jpg",
+        "alt_text": "지수만 보고 좋아할 뻔했네. 내 반도체 종목도 확인하고 커피 마셔야지."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_05.jpg",
+        "alt_text": "지수는 반등, 내 종목은?"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_feed_06.jpg",
+        "alt_text": "더 알고 싶다면 @mijangnari 팔로우!"
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-09_market-close-brief/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
