@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-12_chip-sector-divergence-587a1768",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_01.jpg",
+        "alt_text": "새벽에 나리가 휴대폰을 보며 다우 상승과 나스닥 하락의 차이를 확인한다. 나스닥 종합은 0.44% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_02.jpg",
+        "alt_text": "나리가 반도체 하락을 확인하고 놀란다. 필라델피아 반도체 지수는 2.67% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_03.jpg",
+        "alt_text": "유가 상승과 에너지주 강세를 확인하는 나리. 통신주도 상승했지만 기술주는 약세였다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_04.jpg",
+        "alt_text": "반도체의 다음 날 흐름을 걱정하며 휴대폰을 내려놓는 나리. S&P 구성 종목 다수는 상승했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_05.jpg",
+        "alt_text": "10월 12일 미국장 아침노트. 반도체 약세와 에너지·통신 강세, 세 지수 종가와 다음 확인 항목."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 미장나리 팔로우. 매 거래일 아침 나리와 같이 보는 미국 증시."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-12_chip-sector-divergence-587a1768/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
