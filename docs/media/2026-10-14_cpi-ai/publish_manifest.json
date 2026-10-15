@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-14_cpi-ai",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_01.jpg",
+        "alt_text": "1컷. 밤의 책상에서 노트북 차트를 보고 눈이 커진 나리. 노란 긴팔과 둥근 안경. 대사: 나스닥이 이렇게 빠졌어? 어젯밤엔 또 무슨 일이 있었던 거야? 해설: 나스닥 종합 -1.88%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_02.jpg",
+        "alt_text": "2컷. 휴대폰으로 물가 발표를 읽고 이마에 손을 얹은 나리. 대사: 미국 물가가 또 올랐네. 금리까지 더 올리면 어쩌자는 거야. 해설: 미 9월 CPI 전년비 +3.7%"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_03.jpg",
+        "alt_text": "3컷. 휴대폰 화면을 보며 손가락을 멈춘 채 매수를 망설이는 나리. 대사: AI주가 이렇게 빠지니 싸졌다고 바로 사기도 겁나잖아. 해설: AI 투자 비용 부담 재부각"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_04.jpg",
+        "alt_text": "4컷. 컵을 옆에 두고 책상에 턱을 괸 피곤한 나리. 창밖에 새벽빛. 대사: 반도체주 걱정에 잠이 다 깼네. 내일 커피는 또 두 잔이겠어."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_05.jpg",
+        "alt_text": "나리의 미장 아침노트. 2026년 10월 14일 미국 정규장. 물가 충격과 AI 관련주 약세, 3대 지수 종가와 다음 확인 항목을 정리한 카드."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-14_cpi-ai/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
