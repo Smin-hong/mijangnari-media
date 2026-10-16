@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-16_tech-selloff-20261017-r1",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_01.jpg",
+        "alt_text": "나리가 노트북을 보고 놀란다. 10월 16일 나스닥 종합지수는 2.15% 하락했다. 어제 좀 진정됐나 했는데 나스닥이 또 이렇게 빠졌냐고 말한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_02.jpg",
+        "alt_text": "나리가 휴대폰 뉴스를 보며 걱정한다. AI 투자의 차입과 수익성 부담이 재부각된 상황에서 빚 걱정까지 커져 마음이 놓이지 않는다고 말한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_03.jpg",
+        "alt_text": "나리가 서로 다른 방향의 차트를 본다. 유가 상승 속 에너지주는 상대적으로 견조했고 기술주는 하락했다. 업종별 차이에 놀라는 장면."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_04.jpg",
+        "alt_text": "주말 아침 나리가 휴대폰을 새로고침하려다 멈춘다. 나스닥은 주말에 쉬는데 자신은 왜 시세 창을 계속 보는지 묻는다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_05.jpg",
+        "alt_text": "나리의 미장 아침노트. 2026년 10월 16일 미국 3대 지수 종가, AI 투자·차입 부담과 기술주 약세, 유가·에너지주 대비, 월요일 확인할 두 가지 포인트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_feed_06.jpg",
+        "alt_text": "나리가 등장하는 크림색 팔로우 카드. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-16_tech-selloff-20261017-r1/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
