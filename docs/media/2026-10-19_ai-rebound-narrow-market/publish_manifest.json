@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-19_ai-rebound-narrow-market",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_01.jpg",
+        "alt_text": "미장난리 미국장 4컷 중 1컷. 나리가 집 책상 앞에서 휴대폰 차트를 보고 어깨의 힘을 풀며 안도한다. 대사: 나스닥이 오르니까 일단 좀 살겠다. 지난주엔 너무 무서웠어. 해설: 나스닥 종합 +1.11% 마감."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_02.jpg",
+        "alt_text": "미장난리 미국장 4컷 중 2컷. 나리가 노트북 화면을 살펴보며 반가워하다가 조심스러운 표정으로 턱을 괸다. 대사: AI주가 돌아오네? 그래도 하루 올랐다고 바로 안심하긴 이르지. 해설: AI·반도체주에 저가 매수."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_03.jpg",
+        "alt_text": "미장난리 미국장 4컷 중 3컷. 나리가 휴대폰과 노트북을 번갈아 보며 눈썹을 올리고 의아해한다. 대사: 다우는 또 빠졌네. 다 같이 오른 줄 알고 괜히 신났잖아. 해설: 다우 -0.07%·시장 폭은 약세."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_04.jpg",
+        "alt_text": "미장난리 미국장 4컷 중 4컷. 나리가 들고 있던 머그잔을 내려놓고 휴대폰의 보유 종목을 다시 확인한다. 기대하던 표정에서 멋쩍은 미소로 바뀐다. 대사: AI주 오른 건 좋은데, 내 종목도 좀 보자. 기뻐할 준비만 했네. 해설: AI 반등·시장 전반은 혼조."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_05.jpg",
+        "alt_text": "나리의 미장 아침노트. 미국 2026년 10월 19일 정규장: 나스닥 종합과 S&P 500 상승, 다우 하락. AI·반도체주 반등과 제한적인 시장 폭, 다음 정규장의 지속과 확산을 정리한 손글씨 노트."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_feed_06.jpg",
+        "alt_text": "나리와 함께 어젯밤 미장을 보는 계정 @mijangnari 팔로우 카드. 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-19_ai-rebound-narrow-market/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
