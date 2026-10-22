@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-22_daily-20261023-0734",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_01.jpg",
+        "alt_text": "나리가 나스닥 하락을 보고 놀란다. 대사: 나스닥이 또 빠졌네. AI 기대가 크다더니, 오늘은 왜 이래? 해설: 나스닥 정규장 -2.60%."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_02.jpg",
+        "alt_text": "나리가 메타의 AI 투자 지출과 현금흐름을 걱정한다. 대사: 메타가 AI에 이렇게 쓰는데, 남는 돈은 괜찮은 거야? 해설: 메타, 투자 지출이 영업현금 초과."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_03.jpg",
+        "alt_text": "나리가 다우와 기술주의 엇갈린 흐름을 비교한다. 대사: 다우는 버텼는데 기술주는 힘을 못 쓰네. 내 종목부터 봐야겠다. 해설: 기술주 약세 속 업종별 차별화."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_04.jpg",
+        "alt_text": "나리가 유가 상승 뉴스를 보며 커피를 든다. 대사: 유가까지 올랐네. 물가 걱정은 언제 줄어? 일단 커피부터 마시자. 해설: 중동 긴장에 국제유가 상승."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_05.jpg",
+        "alt_text": "2026년 10월 22일 미국장 아침노트. S&P 500 7,663.43, -1.21%. 나스닥종합 26,008.86, -2.60%. 다우 52,867.98, +0.02%. 메타 AI 투자비 부담, 업종 차별화, 유가와 물가 위험을 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 팔로우 카드. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-22_daily-20261023-0734/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
