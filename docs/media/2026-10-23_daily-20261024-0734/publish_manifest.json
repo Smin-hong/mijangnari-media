@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-23_daily-20261024-0734",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_01.jpg",
+        "alt_text": "유가 상승과 미국 주식 하락 소식을 본 나리가 주말을 앞두고 걱정한다. S&P 500은 0.52% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_02.jpg",
+        "alt_text": "반도체 반등과 나스닥 하락이 함께 나온 화면을 번갈아 보는 나리. 나스닥 종합은 0.21% 하락했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_03.jpg",
+        "alt_text": "일부 반도체가 반등했지만 엔비디아는 하락한 장에서 나리가 자기 보유 종목을 따로 확인한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_04.jpg",
+        "alt_text": "유가 걱정으로 주말에도 앱을 켤 것 같은 나리가 알림을 줄이려 한다. 다음 거래일은 10월 26일이다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_05.jpg",
+        "alt_text": "10월 23일 미국장 아침노트. 유가 부담 속 3대 지수 하락과 일부 반도체 반등, 월요일의 유가와 반등 확산 여부를 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-23_daily-20261024-0734/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
