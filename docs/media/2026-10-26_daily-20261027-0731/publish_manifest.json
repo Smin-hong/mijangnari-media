@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-26_daily-20261027-0731",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_01.jpg",
+        "alt_text": "상장신고서를 제출한 앤트로픽과 반도체 상승 소식에 나리가 반가워한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_02.jpg",
+        "alt_text": "엔비디아는 상승하고 메타는 하락한 장에서 나리가 자신의 기술주를 따로 확인한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_03.jpg",
+        "alt_text": "AI 투자비용과 자금조달 부담을 보며 나리가 하루 반등만으로 안심하기 어렵다고 생각한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_04.jpg",
+        "alt_text": "27~28일 연준 회의를 앞두고 나리가 잠들기 전에도 휴대폰 알림을 끄지 못한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_05.jpg",
+        "alt_text": "10월 26일 미국장 아침노트. 3대 지수 상승과 앤트로픽 상장 신청, AI 투자비용 부담과 대형 기술주 혼조를 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_feed_06.jpg",
+        "alt_text": "어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-26_daily-20261027-0731/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
