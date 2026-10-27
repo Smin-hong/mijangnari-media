@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-27_daily-20261028-0730",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_01.jpg",
+        "alt_text": "나리가 상승 차트를 보며 나스닥 반등에 반가워한다. 해설은 나스닥 종합지수 1.18% 상승 마감을 표시한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_02.jpg",
+        "alt_text": "휴대폰을 보는 나리가 반도체 반등에 다시 사고 싶어 한다. 해설은 AI·반도체 중심의 재상승을 설명한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_03.jpg",
+        "alt_text": "나리가 달력을 보며 연준 결정과 빅테크 실적이 아직 남아 있음을 떠올린다. 미국 28일 일정임을 해설로 표시한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_04.jpg",
+        "alt_text": "잠자리에 앉은 나리가 반도체는 발표를 보고 판단하자면서도 관심 종목 화면을 다시 열어 보려 한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_05.jpg",
+        "alt_text": "2026년 10월 27일 미국장 아침노트. 세 지수 종가와 반도체 중심 상승, 다음 날 연준 결정과 빅테크 실적 확인 항목을 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_feed_06.jpg",
+        "alt_text": "나리의 팔로우 안내. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-27_daily-20261028-0730/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
