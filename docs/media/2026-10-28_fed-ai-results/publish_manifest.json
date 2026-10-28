@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-28_fed-ai-results",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_01.jpg",
+        "alt_text": "연준 금리 동결 소식을 보고 한숨 돌리는 나리. 미국 증시 3대 지수는 소폭 상승했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_02.jpg",
+        "alt_text": "SK하이닉스 실적과 미국 메모리주 상승을 보고 놀란 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_03.jpg",
+        "alt_text": "장후 마이크로소프트 상승과 알파벳 하락을 번갈아 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_04.jpg",
+        "alt_text": "알파벳 실적까지 확인하고 잠들려다 주가를 한 번 더 보는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_05.jpg",
+        "alt_text": "10월 28일 미국 증시 아침노트. 연준 동결, 메모리 강세, 빅테크 실적 차이와 다음 확인 일정."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 @mijangnari 팔로우 안내. 매 거래일 아침 나리와 미국 증시를 함께 보는 계정."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-28_fed-ai-results/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
