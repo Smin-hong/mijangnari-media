@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-29_ai-cashflow",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_01.jpg",
+        "alt_text": "노트북 시세를 보고 놀란 나리. 알파벳이 이렇게 빠졌다고? 다른 종목도 다 내린 건 아니네. 알파벳 -12.64%, 정규장."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_02.jpg",
+        "alt_text": "실적 종이를 들고 걱정하는 나리. 구글 매출은 늘었는데 AI에 쓰고 남는 돈은 더 부족했네. 알파벳 분기 잉여현금흐름 적자."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_03.jpg",
+        "alt_text": "휴대폰의 장후 소식을 보는 나리. 아마존도 발표 뒤 하락이라니. 클라우드가 잘돼도 안심할 수는 없구나."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_04.jpg",
+        "alt_text": "빈 커피잔을 든 피곤한 나리. 인텔도 시간외에 급락이야? 커피 한 잔으론 안 되겠는데. 인텔 장후 발표와 다음 분기 전망."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_05.jpg",
+        "alt_text": "10월 29일 미국장 아침노트. S&P500 7,720.39, -0.30%. 나스닥종합 26,184.73, -1.38%. 다우 52,342.56, -0.25%. 알파벳의 현금 부담과 아마존·인텔의 장후 하락. 성장률과 현금흐름, 다음 전망을 함께 확인."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_feed_06.jpg",
+        "alt_text": "더 알고 싶다면 @mijangnari 팔로우! 매 거래일 아침, 어젯밤 미장을 나리와 함께 확인하세요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-29_ai-cashflow/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
