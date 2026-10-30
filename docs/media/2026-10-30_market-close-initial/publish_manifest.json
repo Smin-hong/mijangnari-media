@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-10-30_market-close-initial",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_01.jpg",
+        "alt_text": "나스닥 종합의 정규장 2.86% 하락을 보고 놀란 나리. 실적 발표가 끝나면 시장이 진정될 줄 알았다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_02.jpg",
+        "alt_text": "인텔의 이번 분기 실적 호조와 다음 분기 전망 실망을 보고 의아해하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_03.jpg",
+        "alt_text": "아마존의 클라우드 성장과 최근 1년 잉여현금 유출을 함께 확인하는 나리."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_04.jpg",
+        "alt_text": "토요일 아침에도 나스닥 화면을 보는 자신을 돌아보는 나리. 다음 정규장은 월요일이다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_05.jpg",
+        "alt_text": "10월 30일 미국 증시 아침노트. 기술주 매도, 인텔의 다음 분기 전망, 아마존의 성장과 현금유출 및 월요일 확인 항목."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 @mijangnari 팔로우 안내. 매 거래일 아침 나리와 미국 증시를 함께 보는 계정."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-10-30_market-close-initial/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
