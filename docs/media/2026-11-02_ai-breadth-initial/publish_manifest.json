@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-11-02_ai-breadth-initial",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_01.jpg",
+        "alt_text": "미장나리 1컷. 나리가 책상 앞에서 휴대폰의 파란 하락선을 보고 눈썹을 찌푸린다. 옆 작은 화면에는 초록 상승선만 보인다. 대사: 다우는 올랐다는데, 내 기술주는 왜 또 파란불이야? 내레이션: 같은 미국장, 엇갈린 표정"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_02.jpg",
+        "alt_text": "미장나리 2컷. 나리가 노트북 옆에서 펜을 들고 고민한다. 큰 계산기와 빈 메모지는 실제 책상 소품이며 의인화하지 않는다. 대사: AI에 쓸 돈은 많은데, 언제 이익이 날까? 나도 그게 궁금하네. 내레이션: AI 투자비 부담에 기술주 주춤"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_03.jpg",
+        "alt_text": "미장나리 3컷. 나리가 노트북에 나란히 보이는 여러 초록 막대와 소수 파란 막대를 보고 고개를 끄덕인다. 대사: 유가가 내리니 다른 업종은 오르네. 내 계좌랑 장 전체는 다르구나. 내레이션: 기술주 밖에선 오른 종목이 더 많았다"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_04.jpg",
+        "alt_text": "미장나리 4컷. 나리가 잠자리에 앉아 하품하며 한 손으로 불을 끄려 하지만 다른 손은 다시 휴대폰으로 향한다. 대사: 그래, 다음 장엔 기술주가 좀 오르려나. 오늘은 나부터 좀 자고. 내레이션: 다짐과 달리, 손은 다시 휴대폰으로"
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_05.jpg",
+        "alt_text": "나리의 미장 아침노트. 2026년 11월 2일 미국 정규장. S&P 500 7,541.40(-0.51%), 나스닥 종합25,164.32(-1.07%), 다우51,983.98(+0.41%). AI 투자비 부담으로 기술주가 약했지만 유가 하락 속 다른 업종은 강했다. 다음 장 기술주 반등과 비기술주 강세 지속, 3일 장후 AMD 실적을 확인한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_feed_06.jpg",
+        "alt_text": "노란 옷의 나리가 다음 미국장 이야기를 함께 보자며 미장나리 계정 팔로우를 안내한다."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-02_ai-breadth-initial/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
