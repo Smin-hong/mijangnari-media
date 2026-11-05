@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-11-05_ai-data-center-selloff",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_01.jpg",
+        "alt_text": "나리가 휴대폰을 보고 놀란다. 나스닥의 정규장 하락률은 5.52%. 전날 상승 뒤 다시 커진 불안을 말한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_02.jpg",
+        "alt_text": "나리가 데이터센터 뉴스를 확인한다. 데이터센터 규제 강화 우려가 AI 관련주 매도와 연결되지만 정책이 이미 확정됐다는 뜻은 아니라고 반응한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_03.jpg",
+        "alt_text": "나리가 노트북과 휴대폰을 번갈아 본다. AI 관련주 매도가 번져 S&P 500 모든 업종이 하락한 상황을 걱정한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_04.jpg",
+        "alt_text": "미국 정규장 종료 뒤에도 나리가 휴대폰을 힐끗 본다. 나스닥 장은 끝났으니 일단 휴대폰을 내려놓자고 말한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_05.jpg",
+        "alt_text": "11월 5일 미장 아침노트. S&P 500 7,353.73(-4.36%), 나스닥종합 24,315.00(-5.52%), 다우 51,523.06(-3.44%). 데이터센터 규제 우려와 AI주 매도, 다음 고용보고서를 정리한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_feed_06.jpg",
+        "alt_text": "노란 상의를 입은 나리와 함께 미장나리 팔로우 안내. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-05_ai-data-center-selloff/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
