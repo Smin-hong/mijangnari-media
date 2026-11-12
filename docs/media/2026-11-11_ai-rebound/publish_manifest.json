@@ -1,0 +1,42 @@
+{
+  "publication_key": "2026-11-11_ai-rebound",
+  "account_handle": "@mijangnari",
+  "feed": {
+    "caption_file": "FINAL_feed_caption.txt",
+    "items": [
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_01.jpg",
+        "alt_text": "미장난리 첫 컷. 나리가 노트북을 보며 코어위브 실적 이후 AI주 반등에 안도한다. 11일 정규장 기술주 중심 상승을 보여준다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_02.jpg",
+        "alt_text": "나리가 스마트폰을 보고 나스닥 상승을 놓친 듯 아쉬워한다. 11일 나스닥종합지수는 1.60% 상승 마감했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_03.jpg",
+        "alt_text": "나리가 장 마감 뒤 엔비디아 하락 소식을 읽고 놀란다. 11일 장후 경영진 교체 보도와 정규장 반등을 구분한다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_04.jpg",
+        "alt_text": "나리가 휴대폰을 내려놓지 못하고 엔비디아 소식을 계속 확인한다. 12일 공시는 젠슨 황의 사임과 임시 CEO 선임을 알렸다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_05.jpg",
+        "alt_text": "11일 미국장 아침노트. 3대 지수 종가, 코어위브 실적에 따른 AI 반등, 엔비디아 장후 하락과 다음날 경영진 교체 공시를 정리했다."
+      },
+      {
+        "image_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_feed_06.jpg",
+        "alt_text": "미장나리 팔로우 안내. 어젯밤 미장을 계속 받고 싶다면 @mijangnari 팔로우. 매 거래일 아침, 나리와 같이 봐요."
+      }
+    ]
+  },
+  "reel": {
+    "video_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_reel.mp4",
+    "cover_url": "https://smin-hong.github.io/mijangnari-media/media/2026-11-11_ai-rebound/FINAL_reel_cover.jpg",
+    "caption_file": "FINAL_reel_caption.txt",
+    "share_to_feed": true
+  },
+  "story": {
+    "mode": "native_feed_share"
+  }
+}
